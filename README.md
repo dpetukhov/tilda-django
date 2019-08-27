@@ -6,7 +6,7 @@
 
 В момент вывода контент обрабатывается таким образом, чтобы статичные файлы загружались из распакованной папки.
 
-Больше информации в статье: http://codepoetry.ru/post/2019/tilda-django-integration/
+Больше информации в статье: http://codepoetry.ru/post/tilda-django-integration/
 
 
 ## Установка
