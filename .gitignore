@@ -1,3 +1,6 @@
 __pycache__
 *.sqlite3
 media/
+env/
+project*.zip
+.vscode
