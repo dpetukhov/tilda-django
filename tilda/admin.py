@@ -12,5 +12,4 @@ class TildaArticleAdmin(admin.ModelAdmin):
         super(TildaArticleAdmin, self).save_model(request, obj, form, change)
 
         if archive_changed and obj.archive:
-            print('importing')
             obj.import_archive()
